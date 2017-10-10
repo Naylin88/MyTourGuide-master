@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hotelList>
+
+
+<Hotel>
+
+<Name>Novotal</Name>
+
+<Address>78 Street Mandalay, Myanmar</Address>
+
+<Phone>+9501373242</Phone>
+
+<Website>https://www.hotelMdy.com</Website>
+
+</Hotel>
+
+
+<Hotel>
+
+<Name>Sedona Hotel</Name>
+
+<Address>26 Street, Mandalay, Myanmar</Address>
+
+<Phone>+95027244</Phone>
+
+<Website>https://www.htsedona.com</Website>
+
+</Hotel>
+
+<Hotel>
+
+<Name>Shangrila Hotel</Name>
+
+<Address>Bo Aung Kyaw Street, Yangon</Address>
+
+<Phone>+95024294</Phone>
+
+<Website>https://www.shangrila.com</Website>
+
+</Hotel>
+
+</hotelList>

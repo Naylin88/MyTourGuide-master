@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hotelList>
+  <Hotel>
+    <Name>Hotel Mandalay</Name>
+    <Address>78 Street Mandalay, Myanmar</Address>
+	<Phone>+9501373242</Phone>
+	<Website>https://www.hotelMdy.com</Website>
+  </Hotel>
+  <Hotel>
+    <Name>Sedona Hotel</Name>
+    <Address>26 Street, Mandalay, Myanmar</Address>
+	<Phone>+95027244</Phone>
+	<Website>https://www.htsedona.com</Website>
+  </Hotel>
+</hotelList>
+

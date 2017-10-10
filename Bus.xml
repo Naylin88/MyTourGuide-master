@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hotelList>
+
+
+<Hotel>
+
+<Name>Ellite</Name>
+
+<Address>AungSan Road, Yangon</Address>
+
+<Phone>+9503411342</Phone>
+
+<Website>https://www.ellite.com</Website>
+
+</Hotel>
+
+
+<Hotel>
+
+<Name>Nice Ride</Name>
+
+<Address>37Street, Mandalay</Address>
+
+<Phone>+954203534</Phone>
+
+<Website>https://www.nride.com</Website>
+
+</Hotel>
+
+<Hotel>
+
+<Name>The Gulf</Name>
+
+<Address>Malamyine</Address>
+
+<Phone>+950242294</Phone>
+
+<Website>https://www.gulf.com</Website>
+
+</Hotel>
+
+</hotelList>
